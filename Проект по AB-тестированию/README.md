@@ -67,3 +67,13 @@
 -  конверсии в просмотр карточек товаров — событие product_page
 -  просмотры корзины — product_cart
 -  покупки — purchase.
+
+# Используемые библиотеки 
+-  pandas
+-  matplotlib
+-  scipy 
+-  datetime
+-  seaborn
+-  plotly
+-  numpy
+-  math
